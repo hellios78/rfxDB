@@ -1,6 +1,8 @@
 rfxDB
 =====
 
+![alt tag](http://dl.dropboxusercontent.com/u/4074962/mc2ads/resources/images/rfx-usecase.png)
+
 NoSQL Database for Reactive Fast Data Processing
 
 * Query data RQL (Reactive Query Language)
@@ -12,3 +14,7 @@ NoSQL Database for Reactive Fast Data Processing
 * Design for lightweight Lambda Architecture
 
 Ideas and implemented at mc2ads Lab (http://www.mc2ads.com) 
+
+Adopted (Actor+Lucene+Redis)
+* https://github.com/maxpert/RedisDirectory
+* https://github.com/timboudreau/acteur
