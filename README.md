@@ -1,7 +1,7 @@
 rfxDB
 =====
 
-Graph Database for Reactive Fast Data Processing
+NoSQL Database for Reactive Fast Data Processing
 
 * Query data RQL (Reactive Query Language)
 * Processing fast data as real-time view, there are 3 kind of data would be stored queried:
