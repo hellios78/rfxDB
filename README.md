@@ -1,7 +1,7 @@
-rfxDB
+rfxDB - the reactive Database for Fast Data Processing
 =====
 
-![alt tag](http://dl.dropboxusercontent.com/u/4074962/mc2ads/resources/images/rfx-usecase.png)
+![alt tag](http://dl.dropboxusercontent.com/u/4074962/mc2ads/resources/images/rfx-DB.png)
 
 NoSQL Database for Reactive Fast Data Processing
 
@@ -15,6 +15,10 @@ NoSQL Database for Reactive Fast Data Processing
 
 Ideas and implemented at mc2ads Lab (http://www.mc2ads.com) 
 
-Adopted (Actor+Lucene+Redis)
-* https://github.com/maxpert/RedisDirectory
-* https://github.com/timboudreau/acteur
+Inspired by :
+* Actor model http://en.wikipedia.org/wiki/Actor_model
+* Reactive Streams http://www.reactive-streams.org/
+* ReactiveX http://reactivex.io/
+* Spark is a fast and general processing engine https://spark.apache.org
+* Reactive Function X (RFX)  https://github.com/mc2ads/rfx
+
