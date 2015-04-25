@@ -17,8 +17,9 @@ Ideas and implemented at mc2ads Lab (http://www.mc2ads.com)
 
 Inspired by :
 * Actor model http://en.wikipedia.org/wiki/Actor_model
-* Reactive Streams http://www.reactive-streams.org/
-* ReactiveX http://reactivex.io/
+* Reactive Streams http://www.reactive-streams.org
+* ReactiveX http://reactivex.io
 * Spark is a fast and general processing engine https://spark.apache.org
 * Reactive Function X (RFX)  https://github.com/mc2ads/rfx
+* In-Memory Data Fabric , https://ignite.incubator.apache.org
 
