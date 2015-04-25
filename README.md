@@ -1,9 +1,9 @@
-rfxDB - the reactive Database for Fast Data Processing
+rfxDB - reactive Database for Fast Data
 =====
 
 ![alt tag](http://dl.dropboxusercontent.com/u/4074962/mc2ads/resources/images/rfx-DB.png)
 
-Reactive NoSQL Database for Fast Data Processing
+*Features:*
 
 * Query data RQL (Reactive Query Language)
 * Processing fast data as real-time view, there are 3 kind of data would be stored queried:
@@ -15,7 +15,7 @@ Reactive NoSQL Database for Fast Data Processing
 
 Ideas and implemented at mc2ads Lab (http://www.mc2ads.com) 
 
-*Inspired by*
+*Inspired by:*
 * Actor model http://en.wikipedia.org/wiki/Actor_model
 * Reactive Streams http://www.reactive-streams.org
 * ReactiveX http://reactivex.io
