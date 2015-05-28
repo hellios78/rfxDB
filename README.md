@@ -5,7 +5,7 @@ rfxDB - reactive Database for Fast Data
 
 *Features:*
 
-* Query data RQL (Reactive Query Language)
+* Query data Rfx-Query (query for now and get new updated data with PubSub)
 * Processing fast data as real-time view, there are 3 kind of data would be stored queried:
   + behavioral data (game, interests, touch, impressions, click, view,...)
   + context data (location, time, referrer, lead , session, ...)
