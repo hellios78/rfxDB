@@ -1,4 +1,4 @@
-rfxDB - reactive Database for Fast Data
+rfxDB - the reactive Database for Fast Data
 =====
 
 ![alt tag](http://dl.dropboxusercontent.com/u/4074962/mc2ads/resources/images/rfx-DB.png)
@@ -13,7 +13,7 @@ rfxDB - reactive Database for Fast Data
 * Data pipeline processing for "fast data"
 * Design for lightweight Lambda Architecture
 
-Ideas and implemented at mc2ads Lab (http://www.mc2ads.com) 
+Ideas and implemented at RFX Lab (http://www.rfxlab.com) 
 
 *Inspired by:*
 * Actor model http://en.wikipedia.org/wiki/Actor_model
