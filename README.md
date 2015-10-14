@@ -22,4 +22,5 @@ Ideas and implemented at RFX Lab (http://www.rfxlab.com)
 * Spark is a fast and general processing engine https://spark.apache.org
 * Reactive Function X (RFX)  https://github.com/mc2ads/rfx
 * In-Memory Data Fabric , https://ignite.incubator.apache.org
+* Database Management Systems http://www.gartner.com/technology/reprints.do?id=1-2PIP95D&ct=151012
 
